@@ -1,0 +1,10 @@
+mode: set
+github.com/astranotus/proxy-middleware/main.go:11.13,18.76 5 0
+github.com/astranotus/proxy-middleware/main.go:20.2,21.44 2 0
+github.com/astranotus/proxy-middleware/main.go:18.77,18.78 0 0
+github.com/astranotus/proxy-middleware/proxy.go:15.39,20.2 1 1
+github.com/astranotus/proxy-middleware/proxy.go:22.62,23.46 1 1
+github.com/astranotus/proxy-middleware/proxy.go:23.46,24.72 1 1
+github.com/astranotus/proxy-middleware/proxy.go:24.72,25.46 1 1
+github.com/astranotus/proxy-middleware/proxy.go:30.4,30.27 1 1
+github.com/astranotus/proxy-middleware/proxy.go:25.46,29.5 3 1
